@@ -9,14 +9,14 @@ To install this package you will need:
 Install via **composer** - edit your `composer.json` to require the package.
 ```json
 "require": {
-    "slyusarchyn/monobank-sdk": "1.0.*"
+    "slyusarchyn/monobank-api-sdk": "1.0.*"
 }
 ```
 Then run `composer update` in your terminal to install it in.
 
 OR
 
-Run `composer require slyusarchyn/monobank-sdk`
+Run `composer require slyusarchyn/monobank-api-sdk`
 
 ## Using
 
