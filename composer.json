@@ -1,0 +1,34 @@
+{
+  "name": "slyusarchyn/monobank",
+  "description": "Monobank API SDK",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "monobank",
+    "monobank-api",
+    "monobank-api-sdk",
+    "pho-monobank",
+    "pho-monobank-api",
+    "pho-monobank-api-sdk"
+  ],
+  "authors": [
+    {
+      "name": "Alexander Slyusarchyn",
+      "email": "sashaslyusarchyn@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.4",
+    "guzzlehttp/guzzle": "^7.0",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "src"
+    ],
+    "psr-4": {
+      "Slyusarchyn\\Monobank\\": "src"
+    }
+  }
+}
