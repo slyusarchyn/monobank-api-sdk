@@ -1,5 +1,5 @@
 {
-  "name": "slyusarchyn/monobank",
+  "name": "slyusarchyn/monobank-api-sdk",
   "description": "Monobank API SDK",
   "type": "library",
   "license": "MIT",
@@ -7,9 +7,9 @@
     "monobank",
     "monobank-api",
     "monobank-api-sdk",
-    "pho-monobank",
-    "pho-monobank-api",
-    "pho-monobank-api-sdk"
+    "php-monobank",
+    "php-monobank-api",
+    "php-monobank-api-sdk"
   ],
   "authors": [
     {
